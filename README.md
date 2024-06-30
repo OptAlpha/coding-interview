@@ -18,11 +18,11 @@ This repository is created to facilitate the screening interview
     {id: 't_14', customer: 'Ryan Roberts', amount: 44}]
     
 # Requirements
-(Must have)
+# Must have
 1. Display the total spending per customer.
 2. Identify and display the top customer based on total spending.
 3. Implement functionality to filter customers by name.
-(Good to have)
+# Good to have
 5. Ensure filters are preserved upon page refresh.
 
 # Implementation Notes
